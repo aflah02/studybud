@@ -6,6 +6,7 @@ A StudyBuddy Finding Site loaded with functionalities such as -
 - User Profiles
 - Interaction Via Comments
 - Topic Tags
+- Filtering by Topics
 - Activity Feeds
 
 Visuals - 
